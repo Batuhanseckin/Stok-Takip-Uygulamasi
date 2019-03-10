@@ -1,6 +1,6 @@
 # Stok-Takip-Uygulamasi
  
-Proje bize banka işlemlerimizi kolaylıkla yapabilceğimiz bir imkan veriyor.Projeyi açabilmek için kodları derleyip çalıştırabilirsiniz.
+Proje alış veriş merkezlerinde stok takibi tutmak için tasarlanmıştır.Stok takibi tutmak dışında günlük net karı hesaplama,fatura işlemleri ve yapılan satışlara daha sonradan erişilebilme özelliklerine de sahiptir.Proje henüz tam anlamıyla bitmemiştir.   Projeyi açabilmek için kodları derleyip çalıştırabilirsiniz.
 
 Projeyle ilgili bazı ekran görüntüleri : 
 ![giris](https://user-images.githubusercontent.com/32499207/54079108-ca922f00-42e6-11e9-8ebe-7544d719ffa4.png)
