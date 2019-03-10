@@ -1,0 +1,26 @@
+C:\Users\batuhan\Desktop\çalışmalar\C#\barkod\barkod\bin\Debug\barkod.exe.config
+C:\Users\batuhan\Desktop\çalışmalar\C#\barkod\barkod\bin\Debug\barkod.exe
+C:\Users\batuhan\Desktop\çalışmalar\C#\barkod\barkod\bin\Debug\barkod.pdb
+C:\Users\batuhan\Desktop\çalışmalar\C#\barkod\barkod\obj\Debug\barkod.csprojResolveAssemblyReference.cache
+C:\Users\batuhan\Desktop\çalışmalar\C#\barkod\barkod\obj\Debug\barkod.Form1.resources
+C:\Users\batuhan\Desktop\çalışmalar\C#\barkod\barkod\obj\Debug\barkod.Properties.Resources.resources
+C:\Users\batuhan\Desktop\çalışmalar\C#\barkod\barkod\obj\Debug\barkod.csproj.GenerateResource.cache
+C:\Users\batuhan\Desktop\çalışmalar\C#\barkod\barkod\obj\Debug\barkod.csproj.CoreCompileInputs.cache
+C:\Users\batuhan\Desktop\çalışmalar\C#\barkod\barkod\obj\Debug\barkod.exe
+C:\Users\batuhan\Desktop\çalışmalar\C#\barkod\barkod\obj\Debug\barkod.pdb
+C:\Users\batuhan\Desktop\çalışmalar\C#\barkod\barkod\obj\Debug\barkod.panel.resources
+C:\Users\batuhan\Desktop\çalışmalar\C#\barkod\barkod\obj\Debug\barkod.satisekrani.resources
+C:\Users\batuhan\Desktop\çalışmalar\C#\barkod\barkod\obj\Debug\barkod.urunekle.resources
+C:\Users\batuhan\Desktop\çalışmalar\C#\Stok Takip Uygulamasi\barkod\bin\Debug\barkod.exe.config
+C:\Users\batuhan\Desktop\çalışmalar\C#\Stok Takip Uygulamasi\barkod\bin\Debug\barkod.exe
+C:\Users\batuhan\Desktop\çalışmalar\C#\Stok Takip Uygulamasi\barkod\bin\Debug\barkod.pdb
+C:\Users\batuhan\Desktop\çalışmalar\C#\Stok Takip Uygulamasi\barkod\obj\Debug\barkod.csprojResolveAssemblyReference.cache
+C:\Users\batuhan\Desktop\çalışmalar\C#\Stok Takip Uygulamasi\barkod\obj\Debug\barkod.Form1.resources
+C:\Users\batuhan\Desktop\çalışmalar\C#\Stok Takip Uygulamasi\barkod\obj\Debug\barkod.panel.resources
+C:\Users\batuhan\Desktop\çalışmalar\C#\Stok Takip Uygulamasi\barkod\obj\Debug\barkod.Properties.Resources.resources
+C:\Users\batuhan\Desktop\çalışmalar\C#\Stok Takip Uygulamasi\barkod\obj\Debug\barkod.satisekrani.resources
+C:\Users\batuhan\Desktop\çalışmalar\C#\Stok Takip Uygulamasi\barkod\obj\Debug\barkod.urunekle.resources
+C:\Users\batuhan\Desktop\çalışmalar\C#\Stok Takip Uygulamasi\barkod\obj\Debug\barkod.csproj.GenerateResource.cache
+C:\Users\batuhan\Desktop\çalışmalar\C#\Stok Takip Uygulamasi\barkod\obj\Debug\barkod.csproj.CoreCompileInputs.cache
+C:\Users\batuhan\Desktop\çalışmalar\C#\Stok Takip Uygulamasi\barkod\obj\Debug\barkod.exe
+C:\Users\batuhan\Desktop\çalışmalar\C#\Stok Takip Uygulamasi\barkod\obj\Debug\barkod.pdb
